@@ -1,7 +1,7 @@
 # ContourLineandAreaMeasurement
 This is a plugin for AstroImageJ that facilitiates drawing contours and measuring the area of the resulting regions.
 
-It was written by Tyler Nourai,  Dylan Tivnan, and Evan Williams. It is currently (as of Jan 2022) maintained by Christopher L Duston (christopher.duston@protonmail.com). See the license file in this directory for copyright infomation.
+It was written by Tyler Nourai,  Dylan Tivnan, and Evan Williams. It is currently (as of Jan 2022) maintained by Christopher L Duston (christopher.duston@protonmail.com). See the license file in the attached source directory for copyleft infomation.
 
 Installation is done by moving the MyPear_.jar file into your AstroImageJ plugins directory. If you are working on Linux in a default installation, this is /usr/local/AstroImageJ/plugins. Then reopen AstroImageJ, and you will see the menu option Contour Line and Area Measurement under the main "Plugins" menu. To use it:
 
